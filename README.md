@@ -5,7 +5,7 @@ Use of Twitter API, Sentiment Analysis
 ## Interesting findings:
 + **'China' and 'India' dominated the keyword list!**
 + **Negative tweets are more likely related to sports?!**
-+ **Public attention do drift away quickly from COVID-19 when Christmas comes!**
++ **Public attention quickly drifted away from COVID-19 when Christmas comes!**
 
 
 In this project, I demonstrate the use of Twitter API (V2) to download weekly tweets that contain the keyword "#covid19". The date is fixed from Dec. 18, 2022 to Dec. 25, 2022. Use of some preliminary text processing techniques (removing stopwords, lemmatization) as well as sentiment/subjectivity score calculattion will be demonstrated. In addition to that, some visualization are created in order to answer some questions of interets:
