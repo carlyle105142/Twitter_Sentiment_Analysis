@@ -13,7 +13,7 @@ In this project, I demonstrate the use of Twitter API (V2) to download weekly tw
 
 **3. What is the relationship between subjectivity score and sentiment score?**
 
-**4. What are the contexts/themes of those positive, negative and neutral tweets?**
+**4. What are the contexts/themes of those positive, negative and neutral tweets? Do they differ?**
 
 **5. What are the most common/interesting keywords found in positive, negative and neutral tweets? What do they imply about the recent COVID-19 discourse on Twitter?**
 
@@ -58,4 +58,43 @@ Note: The "annotation" labels are created by Twitter for the purpose of supporti
 + Positive tweets are more often linked to "Interests and Hobbies", "Entities" and "Brand".
 
 + Negative tweets are more often linked to "Sports", "Sports League" and "Sports Team" and "Sport Event".
+
+
+**5. What are the most popular/interesting keywords found in positive, negative and neutral tweets? What do they imply about the recent COVID-19 discourse on Twitter?**
+
+#### All Tweets
+![image](https://user-images.githubusercontent.com/59629686/209507589-25dada1c-7e6e-4acf-b47e-86ea4887a757.png)
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/59629686/209507631-32e7127b-06d5-467b-9e63-6ef17939d543.png">
+
+#### Positive Tweets
+![image](https://user-images.githubusercontent.com/59629686/209507657-4c387130-35ee-42fa-8c8b-10f3b6a2b668.png)
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/59629686/209507738-0ce137d3-926a-41ed-81c8-d3055e693f85.png">
+
+#### Negative Tweets
+![image](https://user-images.githubusercontent.com/59629686/209507772-e49ebd9c-b015-485d-ba09-1fa7e025b803.png)
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/59629686/209507804-e1b0b586-c1b5-4cc7-96d8-fe3d64303a55.png">
+
+#### Neutral Tweets
+![image](https://user-images.githubusercontent.com/59629686/209507821-ea168c1e-9c63-45ae-9cf9-6a6d9eedc652.png)
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/59629686/209507849-8cd3170e-5243-4277-82b5-fa9a0838dada.png">
+
+
+Summary:
++ The top 5 keywords among all tweets are: China, India, Coronavirus, People, World
++ The top 5 keywords among positive tweets are: India, China, case, vaccine, like
++ The top 5 keywords among negative tweets are: China, World, Death, India, Coronavirus
++ The top 5 keywords among neutral tweets are: China, India, Coronavirus, new, vaccine
+
+Finding: 
++ There seems no significant difference in terms of popular keywords for different sentiment categories. 
++ "China" and "India" are among the most popular words.
++ Some background knowledge: China recently had its biggest COVID outbreak since 2020 due to the cancellation of its zero-covid policy.
++ "Covid-is-not-over" appears as one of the top keywords in all 3 sentiment categories.
++ "Vaccine" appears often in neutral tweets, suggesting much less public sentiment towards mRNA vaccine as compared to before.
++ Among negative tweets, some popular words including lockdown, control, stupidity, fool.
++ Among positive tweets, some popular words including positive, mask, new, like
+
+
+
+
 
