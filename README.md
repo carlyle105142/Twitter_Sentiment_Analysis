@@ -95,6 +95,12 @@ Finding:
 + Among positive tweets, some popular words including positive, mask, new, like
 
 
+**6. How does the sentiment score fluctuate on an hourly basis during the past week?**
 
+![ts1](https://user-images.githubusercontent.com/59629686/209509280-da6256d1-b430-42b8-885b-1782c32994f7.png)
+![ts2](https://user-images.githubusercontent.com/59629686/209509291-22778401-9a8e-4458-9c86-6726051d4528.png)
+![ts3](https://user-images.githubusercontent.com/59629686/209509296-a295fa40-a018-4704-8f1a-68c6610da935.png)
+
++ Overall, no obvious trend, nor any seasonality is detected based on the hourly time-series plot.
 
 
